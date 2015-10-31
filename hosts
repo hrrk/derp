@@ -1,0 +1,6 @@
+# Comments here
+127.0.0.1    localhost                         localhost
+68.23.41.6  first.domain.com           first                hostname
+68.23.41.7  second.domain.com    second
+68.23.41.8  third.domain.com          third
+# End of /etc/hosts
